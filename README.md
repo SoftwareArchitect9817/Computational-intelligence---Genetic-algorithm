@@ -3,7 +3,7 @@ Space Discover: Genetic Algorithm
 
 ## :package: Download and Setup
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device. <br /> 
-`$ git clone https://github.com/devincapriola/GeneticAlgorithm.git`
+`$ git clone https://github.com/SoftwareArchitect9817/Computational-intelligence---Genetic-algorithm.git`
 
 ## Quick Start
 1. install the requirements. <br /> 
